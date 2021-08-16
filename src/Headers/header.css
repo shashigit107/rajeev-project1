@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+}
+.header{
+    background-color: ghostwhite;
+    position: flex;
+    justify-content: center;
+  }
+  .nav__bar{
+      position: flex;
+      flex-direction: column; 
+  }
+  .content{
+      position: sticky;
+      top: 100;
+  }
+.shop{
+    width: 100px;
+    font-size: 35px;
+    color: red;
+    margin-left: 50px;
+}
+.life{
+    font-size: 35px;
+    color: black;
+}
+.macarthur__square{
+    position: relative;
+    margin-left: 25px;
+    font-size: 20px;
+    color: black;
+}
+
+.my__profile{
+    position: relative;
+    left: 600px;
+    color: black;
+    top: -10px;
+    text-decoration: ghostwhite;
+
+
+}
+.shops{
+    position: relative;
+    left: 650px;
+    color: black;
+    top: -10px;
+    text-decoration: none;
+}
+.FAQS{
+    position: relative;
+    left: 700px;
+    color: black;
+    top: -10px;
+    text-decoration: none;
+}
+.icon{
+    position: relative;
+    left: 750px;
+    color: black;
+    top: -2px;
+}
+.cart{
+    position: relative;
+    left: 755px;
+    top: -10px;
+    color: black;
+    text-decoration: none;
+   
+}
