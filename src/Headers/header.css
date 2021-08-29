@@ -3,12 +3,13 @@
 }
 .header{
     background-color: ghostwhite;
-    position: flex;
+    width: 100%;
+    position: fixed;
     justify-content: center;
   }
   .nav__bar{
       position: flex;
-      flex-direction: column; 
+      /* flex-direction: ;  */
   }
   .content{
       position: sticky;

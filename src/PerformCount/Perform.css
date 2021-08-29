@@ -1,0 +1,24 @@
+.quality{
+    margin-top: 30px;
+}
+.add__sub{
+    display: flex;
+   width: 300px;
+   height: 30px;
+   border: 1px solid gray; 
+   
+}
+.sub{
+    margin-top: 4px;
+}
+.add{
+    margin-left: 240px;
+    margin-top: 4px;
+    
+}
+.count{
+    position: relative;
+    left: 120px;
+    top: 3px;
+    
+}

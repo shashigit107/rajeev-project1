@@ -1,0 +1,50 @@
+.home__page{
+    display: flex;
+  
+}
+ .image__page{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.main__image{
+    width: 700px;
+    height: 500px;
+    margin-top: 15px;
+}  
+.right__page{
+    margin-left: 50px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+a{
+    margin-bottom: 30px;
+}
+.selector{
+    display: flex;
+    flex-direction: column;
+}
+.selector> select{
+    width: 500px;
+    padding: 10px;
+}
+.button__class{
+    width: 500px;
+    padding: 5px;
+    background-color: green;
+    margin-top: 30px;
+}
+.small__image{
+    display: flex;
+    margin-left: 50px;
+    
+}
+ .image{
+     /* position: relative; */
+     margin-top: 40px;
+    width: 120px;
+    height: 200px;
+    margin-left: 20px;
+} 
